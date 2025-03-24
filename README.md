@@ -1,4 +1,4 @@
-#### **Tic Tac Toe Game**
+# **Tic Tac Toe Game**
 
 ## **Features**
 - Custom and reusable components  
