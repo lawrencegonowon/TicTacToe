@@ -27,15 +27,18 @@
 - A Restart Game button lets players start a new round.
 
 ![PVP 1](https://github.com/user-attachments/assets/26331d17-7f70-41cf-b679-3a6587fdbe38)
+
 First move X
 
 ![PVP 2](https://github.com/user-attachments/assets/31da65ec-ceb7-43b9-a5a6-f2c628847d6f)
 Player O has now made their move, and the turn has switched back to Player X.
 
 ![PVP 3 Winner](https://github.com/user-attachments/assets/35c97168-4b2a-4423-895c-cd4f78757e54)
+
 PVP Winner for X
 
 ![PVP Winner O](https://github.com/user-attachments/assets/5baa029c-8aba-4724-9778-5772b929fab7)
+
 PVP Winner for O
 
 ![PVP 4 draw](https://github.com/user-attachments/assets/6335a6f6-62d1-48fc-b063-224696189c25)
