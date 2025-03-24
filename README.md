@@ -19,6 +19,7 @@
    - Player vs AI → Starts a game against the AI.
 - Designed with a simple UI for easy navigation.
 
+###  Player vs Player Screen  
 ![PVP default](https://github.com/user-attachments/assets/63c897ec-b69e-485c-ab01-63e808584af4)
 - The Tic Tac Toe board appears.
 - Two players take turns placing X and O on the board.
@@ -41,4 +42,24 @@
 ![PVP 4 draw](https://github.com/user-attachments/assets/6335a6f6-62d1-48fc-b063-224696189c25)
 - When PVP is tied.
 
+###  Player vs AI Screen  
+![PVA default](https://github.com/user-attachments/assets/d4873da2-9f93-4623-b43c-71539662c3d8)
+- This is the Player vs AI mode before any moves have been made.
+- The board is empty, waiting for the player (X) to make the first move.
+- Once the player makes a move, the AI (O) should respond automatically based on the implemented logic.
+
+![PVA 1](https://github.com/user-attachments/assets/18a8a6f3-6c2c-4ad4-aefe-cb83f2f878d6)
+- When the Player (X) makes a move, the AI (O) responds automatically.
+
+![PVA 2](https://github.com/user-attachments/assets/662d1fe5-967e-405c-a2a7-f1306de7e44d)
+- When the Player (X) makes a move, the AI (O) responds automatically.
+
+![PVA 3 Winner](https://github.com/user-attachments/assets/c81fb4d9-1fc5-437d-8b15-6707a879eb29)
+- PvsAI Winner for the X (Player).
+
+![PVA Winner O](https://github.com/user-attachments/assets/e652696d-ece2-42d9-a531-7ad2a7738768)
+- PvsAI Winner for the O (AI).
+
+![PVA 4 draw](https://github.com/user-attachments/assets/f87da4c2-adb9-4720-a1c9-72292a94fc37)
+- When PvsAI is tied.
 
