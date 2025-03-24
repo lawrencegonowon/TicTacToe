@@ -1,12 +1,10 @@
 # **Tic Tac Toe Game**
 
 ## **Features**
-- Custom and reusable components  
-- Uses `useState`, `useEffect`, and Context API  
 - Two Game Modes:  
    - **Player vs Player**  
    - **Player vs AI**  
-- Multiple screens (Home, Game, Result)  
+- Multiple screens (Home and Game)  
 - Responsive and mobile-friendly  
 
 ## ** Screenshots**
